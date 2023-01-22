@@ -9,7 +9,7 @@ $ pip install Pillow
 
 ## Where to put the files?
 - The script must be in the root repository folder.
-- The images that are to be converted must be in a sub-directory in `/Images`. (i. e. `/Images/My Book of Fairy Tales/` (the name of the folder will be the name of the PDF.
+- The images that are to be converted must be in a sub-directory in `/Images`. (i. e. `/Images/My Book of Fairy Tales/` (the name of the folder will be the name of the PDF)
 - The finished PDF files will be in the `/PDF` directory.
 
 ## Visualisation
