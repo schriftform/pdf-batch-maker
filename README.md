@@ -13,4 +13,4 @@ $ pip install Pillow
 - The finished PDF files will be in the `/PDF` directory.
 
 ## Visualisation
-![PDF Batcher visualised](https://i.imgur.com/40sPWJA.png)
+![PDF Batcher visualised](https://i.imgur.com/nhjMymG.png)
